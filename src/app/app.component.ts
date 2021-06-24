@@ -15,7 +15,6 @@ export class AppComponent implements OnInit {
 
   private readySubject = new BehaviorSubject<boolean>(this.ready);
   private activeSubject = new BehaviorSubject<boolean>(this.active);
-  private timesSubject = new BehaviorSubject<number>(0);
 
   ngOnInit() {
     this.readySubject.subscribe(value => {
