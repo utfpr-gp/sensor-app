@@ -1,5 +1,9 @@
 # SensorApp
 
+Vídeo explicativo:
+
+https://www.loom.com/share/e03ffd87226341e18415648a2991a7da
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
 ## Development server
